@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include "ass3.h"
+#include "header.h"
 //#define MAX 5
 
 extern int counter;
