@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <math.h>
+
 /*****
 *Function Name: recEffiPow
 *Input: double x, int y
